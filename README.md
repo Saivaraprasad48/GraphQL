@@ -29,4 +29,6 @@ This is backend server which create users using postgres DB with graphQL
 
 The final output of postgres DB
 ![image](https://github.com/user-attachments/assets/b6e4ab33-74e4-4a4b-9fc6-3ec8a6b26c1f)
+![image](https://github.com/user-attachments/assets/e84b9afe-b6a4-41e7-9791-29d4c7f2a435)
+
 
